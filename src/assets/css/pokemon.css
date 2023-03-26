@@ -1,0 +1,31 @@
+.card {
+  display: inline-block;
+  border-radius: 20px;
+  width: 13rem;
+  margin: 10px;
+}
+
+.type {
+  padding: 0.3rem 0.6rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin: 1px;
+  text-transform: capitalize;
+}
+
+.nombre {
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.atributos {
+  font-weight: 700;
+}
+
+.habilidad {
+  text-transform: capitalize;
+}
+.busqueda {
+  width: 100%;
+}
